@@ -1,0 +1,50 @@
+poem{
+    margin: auto;
+
+
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    width: 30rem;
+    
+}
+
+poem > poem_title,
+poem > author,
+poem > verse,
+poem > img
+{
+    border: 1px solid blue;
+   
+    margin: .2em;
+}
+
+poem > img{
+    max-width: 100%;
+    height: auto;
+}
+
+
+poem_title {
+    font-size: 2rem;
+    font-weight: bolder;
+
+}
+
+table , th, td{
+    border: 1px solid;
+}
+
+a:visited {
+    color: red;
+  }
+
+a:hover {
+    color: green;
+}
+  
+a:active {
+    font-size: 2rem;
+    color: yellow;
+}
+  
