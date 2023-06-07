@@ -1,0 +1,82 @@
+{
+    "entries": {
+        "IPEO9tD2": {
+            "id": "reee",
+            "uploadPath": "files",
+            "fileName": "login_kit.mp4",
+            "poster": "https:\/\/lf16-tiktok-common.ibytedtos.com\/obj\/tiktok-web-common-us\/developers\/static\/images\/login-kit-c763a29a476a2563ccca9ff34e9b8907.jpg",
+            "header": "Login kit",
+            "paragraph": "Enable Login Kit so that users can sign into your app or website quickly and securely through their TikTok login credentials. By logging in with TikTok, users can share their videos on your app, bringing creativity from TikTok to your app experience.",
+            "linkTekst": "Learn more",
+            "href": "https:\/\/developers.tiktok.com\/doc\/login-kit-web\/"
+        },
+        "asd": {
+            "id": "reee2",
+            "uploadPath": "files",
+            "fileName": "video_kit.mp4",
+            "poster": "https:\/\/lf16-tiktok-common.ibytedtos.com\/obj\/tiktok-web-common-us\/developers\/static\/images\/login-kit-c763a29a476a2563ccca9ff34e9b8907.jpg",
+            "header": "Video Kit",
+            "paragraph": "Share videos to TikTok with just a tap. Add a \"Share to TikTok\" button to your app so users can share their short-form videos with the entire TikTok community.",
+            "linkTekst": "Learn more",
+            "href": "https:\/\/developers.tiktok.com\/doc\/login-kit-web\/"
+        },
+        "hfgdhjgghj": {
+            "id": "reee2",
+            "uploadPath": "files",
+            "fileName": "content_posting_api.mp4",
+            "poster": "https:\/\/lf16-tiktok-common.ibytedtos.com\/obj\/tiktok-web-common-us\/developers\/static\/images\/login-kit-c763a29a476a2563ccca9ff34e9b8907.jpg",
+            "header": "Content Posting API",
+            "paragraph": "Our API empowers your creators to seamlessly post their content to TikTok.",
+            "linkTekst": "Learn more",
+            "href": "https:\/\/developers.tiktok.com\/products\/content-posting-api\/"
+        },
+        "IPEO9tDd2": {
+            "id": "reee2",
+            "uploadPath": "files",
+            "fileName": "green-screen-kit.mp4",
+            "poster": "https:\/\/lf16-tiktok-common.ibytedtos.com\/obj\/tiktok-web-common-us\/developers\/static\/images\/login-kit-c763a29a476a2563ccca9ff34e9b8907.jpg",
+            "header": "Green Screen Kit",
+            "paragraph": "Inspire creativity with Green Screen backgrounds. Users can record themselves over photos and videos shared directly from your app.",
+            "linkTekst": "Learn more",
+            "href": "https:\/\/developers.tiktok.com\/doc\/green-screen-kit\/"
+        },
+        "asdgg": {
+            "id": "reee2",
+            "uploadPath": "files",
+            "fileName": "display-api.mp4",
+            "poster": "https:\/\/lf16-tiktok-common.ibytedtos.com\/obj\/tiktok-web-common-us\/developers\/static\/images\/login-kit-c763a29a476a2563ccca9ff34e9b8907.jpg",
+            "header": "Display API",
+            "paragraph": "The Display API contains a set of HTTP-based APIs that your product can use to display TikTok creator's videos and their profile information.",
+            "linkTekst": "Learn more",
+            "href": "https:\/\/developers.tiktok.com\/doc\/display-api-get-started\/"
+        },
+        "IPEO9hgfjhggjhtDd2": {
+            "id": "reee2",
+            "uploadPath": "files",
+            "fileName": "transparency_api.mp4",
+            "poster": "https:\/\/lf16-tiktok-common.ibytedtos.com\/obj\/tiktok-web-common-us\/developers\/static\/images\/login-kit-c763a29a476a2563ccca9ff34e9b8907.jpg",
+            "header": "Research API",
+            "paragraph": "The Research API will give researchers access to TikTok public data on user profiles, videos, and comments.",
+            "linkTekst": "Learn more",
+            "href": "https:\/\/developers.tiktok.com\/products\/research-api\/"
+        },
+        "s6oTvw": {
+            "uploadPath": "files",
+            "fileName": "embed.mp4",
+            "poster": "https:\/\/lf16-tiktok-common.ibytedtos.com\/obj\/tiktok-web-common-us\/developers\/static\/images\/login-kit-c763a29a476a2563ccca9ff34e9b8907.jpg",
+            "header": "testowy header",
+            "paragraph": "testowy paragraf",
+            "linkTekst": "testowy link",
+            "href": "www.example.org"
+        },
+        "bvtFk0": {
+            "uploadPath": "files",
+            "fileName": "embed.mp4",
+            "poster": "https:\/\/lf16-tiktok-common.ibytedtos.com\/obj\/tiktok-web-common-us\/developers\/static\/images\/login-kit-c763a29a476a2563ccca9ff34e9b8907.jpg",
+            "header": "testowy header",
+            "paragraph": "testowy paragraf",
+            "linkTekst": "testowy link",
+            "href": "www.example.org"
+        }
+    }
+}
